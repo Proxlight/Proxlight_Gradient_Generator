@@ -1,2 +1,2 @@
-# Simple_Gradient_Generator
+# Proxlight Gradient Generator 
 Simple Gradient Generator for Humans
